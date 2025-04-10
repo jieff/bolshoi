@@ -1,36 +1,39 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 📄 Sistema de Gestão de Matrículas – Bolshoi
 
-## Getting Started
+Este sistema foi desenvolvido para facilitar e organizar o processo de matrícula da Escola do Teatro Bolshoi no Brasil. Ele oferece uma interface moderna, simples e intuitiva para acompanhamento de contratos, dashboards de status e pré-cadastros.
 
-First, run the development server:
+## 🔍 Visão Geral
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+### 🧾 Tela de Contratos
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Visualize contratos em andamento e concluídos de forma clara e organizada.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+![Tela de Contratos](./public/images/contract.png)
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+### 📊 Dashboard
 
-## Learn More
+Painel com métricas e status gerais das matrículas e contratos assinados.
 
-To learn more about Next.js, take a look at the following resources:
+![Dashboard](./public/images/dashboard.png)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+### 📝 Pré-Cadastro
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+Área dedicada ao pré-cadastro de alunos e responsáveis para agilizar o processo de matrícula.
 
-## Deploy on Vercel
+![Pré-Cadastro](./public/images/pre-registration.png)
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## 🚀 Tecnologias Utilizadas
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+- **Next.js** 15
+- **TypeScript**
+- **Tailwind CSS**
+- **Lucide Icons**
+- **Dark mode**
+- **Componentização com React**
+
+## 🤝 Contribuição
+
+Contribuições são bem-vindas! Fique à vontade para abrir issues, pull requests ou sugerir melhorias.
+
+---
+
