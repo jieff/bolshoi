@@ -8,19 +8,19 @@ Este sistema foi desenvolvido para facilitar e organizar o processo de matrícul
 
 Visualize contratos em andamento e concluídos de forma clara e organizada.
 
-![Tela de Contratos](./public/images/contract.png)
+![Tela de Contratos](.github/images/contract.png)
 
 ### 📊 Dashboard
 
 Painel com métricas e status gerais das matrículas e contratos assinados.
 
-![Dashboard](./public/images/dashboard.png)
+![Dashboard](.github/images/dashboard.png)
 
 ### 📝 Pré-Cadastro
 
 Área dedicada ao pré-cadastro de alunos e responsáveis para agilizar o processo de matrícula.
 
-![Pré-Cadastro](./public/images/pre-registration.png)
+![Pré-Cadastro](.github/images/pre-registration.png)
 
 ## 🚀 Tecnologias Utilizadas
 
